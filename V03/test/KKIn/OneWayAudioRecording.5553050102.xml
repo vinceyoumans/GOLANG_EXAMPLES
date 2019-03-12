@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><alarm>
+  <alarmname>OneWayAudioRecording</alarmname>
+  <alarminstanceid>5553050102</alarminstanceid>
+  <componentname>IPCaptureEngine</componentname>
+  <parameters>
+    <parameter>goxsa5187</parameter>
+    <parameter>SIP/48558566@SEPBCF1F2E9153F</parameter>
+    <parameter>5553050102</parameter>
+    <parameter>GO Phones</parameter>
+    <parameter>588010008136513</parameter>
+    <parameter>10.131.51.133</parameter>
+    <parameter>10.131.51.133:0 -) 10.147.16.201:53214;</parameter>
+</parameters>
+  <triggertime initial="2018-05-24T13:22:05.805Z">2018-05-24T19:29:50.738Z</triggertime>
+  <priorityvalue>3</priorityvalue>
+  <priorityname>Major</priorityname>
+  <perfalarm>No</perfalarm>
+</alarm>

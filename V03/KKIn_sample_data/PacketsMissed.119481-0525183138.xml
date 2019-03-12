@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<alarm>
+<alarmname>PacketsMissed</alarmname>
+<alarminstanceid>119481-0525183138</alarminstanceid>
+<componentname>IPCaptureEngine</componentname>
+<parameters>
+<parameter>goxsa5187</parameter>
+<parameter>12361</parameter>
+<parameter>RTP</parameter>
+<parameter>24</parameter>
+</parameters>
+<triggertime initial='2018-05-25T18:31:38.881Z'>2018-05-25T18:31:38.881Z</triggertime>
+<priorityvalue>2</priorityvalue>
+<priorityname>Minor</priorityname>
+<perfalarm>No</perfalarm>
+</alarm>

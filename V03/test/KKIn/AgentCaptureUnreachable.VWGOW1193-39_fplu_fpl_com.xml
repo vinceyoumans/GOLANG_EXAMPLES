@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<alarm>
+<alarmname>AgentCaptureUnreachable</alarmname>
+<alarminstanceid>VWGOW1193-39_fplu_fpl_com</alarminstanceid>
+<componentname>WGUIMediaChannel</componentname>
+<parameters>
+<parameter>goxsa5187</parameter>
+<parameter>VWGOW1193-39.fplu.fpl.com</parameter>
+<parameter>10.131.3.115</parameter>
+<parameter>4001</parameter>
+</parameters>
+<triggertime initial='2018-05-24T13:00:37.334Z'>2018-05-24T13:00:37.334Z</triggertime>
+<priorityvalue>3</priorityvalue>
+<priorityname>Major</priorityname>
+<perfalarm>No</perfalarm>
+</alarm>

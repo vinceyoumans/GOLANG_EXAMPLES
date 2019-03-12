@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<alarm>
+<alarmname>RecordingError</alarmname>
+<alarminstanceid>108406-0524204044</alarminstanceid>
+<componentname>WGUIMediaChannel</componentname>
+<parameters>
+<parameter>588010008139588</parameter>
+<parameter>409</parameter>
+<parameter>goxsa5187</parameter>
+<parameter>Connection to PC &apos;ELP2FPL88221.gcserv.com&apos; is broken. Connection address &apos;10.116.121.66&apos; was used to connect to the PC. Ensure that PC is on the network and reachable. Also make sure that Screen Capture Service is running on that PC.</parameter>
+</parameters>
+<triggertime initial='2018-05-24T20:40:44.302Z'>2018-05-24T20:40:44.302Z</triggertime>
+<priorityvalue>3</priorityvalue>
+<priorityname>Major</priorityname>
+<perfalarm>No</perfalarm>
+</alarm>

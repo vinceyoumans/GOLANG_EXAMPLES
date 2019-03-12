@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<alarm>
+<alarmname>PacketsMissedForRecording</alarmname>
+<alarminstanceid>37387-0522154749</alarminstanceid>
+<componentname>IPCaptureEngine</componentname>
+<parameters>
+<parameter>goxsa5187</parameter>
+<parameter>10.131.50.236:29210</parameter>
+<parameter>10.147.16.201:52822</parameter>
+<parameter>12</parameter>
+<parameter>588010008060164</parameter>
+</parameters>
+<triggertime initial='2018-05-22T15:47:49.853Z'>2018-05-22T15:47:49.853Z</triggertime>
+<priorityvalue>3</priorityvalue>
+<priorityname>Major</priorityname>
+<perfalarm>No</perfalarm>
+</alarm>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<alarm>
+<alarmname>RecordingError</alarmname>
+<alarminstanceid>91252-0524130037</alarminstanceid>
+<componentname>WGUIMediaChannel</componentname>
+<parameters>
+<parameter>588010008118464</parameter>
+<parameter>330</parameter>
+<parameter>goxsa5187</parameter>
+<parameter>Connection to PC &apos;VWGOW1193-39.fplu.fpl.com&apos; is broken. Connection address &apos;10.131.3.115&apos; was used to connect to the PC. Ensure that PC is on the network and reachable. Also make sure that Screen Capture Service is running on that PC.</parameter>
+</parameters>
+<triggertime initial='2018-05-24T13:00:37.354Z'>2018-05-24T13:00:37.354Z</triggertime>
+<priorityvalue>3</priorityvalue>
+<priorityname>Major</priorityname>
+<perfalarm>No</perfalarm>
+</alarm>
